@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Student [
+    <!ELEMENT Student ANY>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT marks (#PCDATA)>
+    <!ELEMENT fess (#PCDATA)>
+    <!ELEMENT class (#PCDATA)>
+    <!ELEMENT standard (#PCDATA)>
+]>
+<Student>
+    <name>Ahmed</name>
+    <age>25</age>
+    <address>North Karachi</address>
+    <marks>85</marks>
+    <fess>10,000</fess>
+    <class>10</class>
+</Student>

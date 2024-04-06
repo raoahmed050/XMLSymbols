@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class
+    xmlns:Ar="https://www.MySchool.com/Ar/"
+    xmlns:Tk="https://www.MySchool.com/Tk/">
+    <Ar:Student>
+        <Ar:name>AhmedRaza</Ar:name>
+        <Ar:age>14</Ar:age>
+    </Ar:Student>
+
+	<Tk:Student>
+        <Tk:name>ToobaKhan</Tk:name>
+        <Tk:age>22</Tk:age>
+	</Tk:Student>
+</Class>
